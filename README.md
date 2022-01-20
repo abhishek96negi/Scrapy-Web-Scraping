@@ -6,8 +6,8 @@
 
   1. [Jessops](https://github.com/abhishek96negi/Scrapy-Web-Scraping/tree/main/jessops)
 
-   > [Spider Code](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/jessops/jessops/spiders/jessops_spider.py)
+      > [Spider Code](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/jessops/jessops/spiders/jessops_spider.py)
   
-   > [Item Code](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/jessops/jessops/items.py)
+      > [Item Code](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/jessops/jessops/items.py)
   
-   > [Output Data](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/jessops/product_details.json)
+      > [Output Data](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/jessops/product_details.json)
