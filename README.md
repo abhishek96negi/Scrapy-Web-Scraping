@@ -17,3 +17,11 @@
       > [Spider Code](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/fake_plants/fake_plants/spiders/fake_plant.py)
 
       > [Output Data](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/fake_plants/details.json)
+
+
+  
+  3. [Whisky Shop](https://github.com/abhishek96negi/Scrapy-Web-Scraping/tree/main/whiskyshop)
+
+      > [Spider Code](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/whiskyshop/whiskyshop/spiders/whisky_shop.py)
+
+      > [Output Data](https://github.com/abhishek96negi/Scrapy-Web-Scraping/blob/main/whiskyshop/details.json)
